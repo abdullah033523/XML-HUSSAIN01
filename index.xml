@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <msg:product xmlns:msg="www.msg.com">
+    <msg:name>chain cover</msg:name>
+    <msg:name>900</msg:name>
+    <msg:description>HA geniune parts endor quality</msg:description>
+    </msg:product>
+
+    
+    <sfc:product xmlns:sfc="www.sfc.com">
+        <sfc:name>clutch cover</sfc:name>
+        <sfc:name>1550</sfc:name>
+        <sfc:description>HA geniune parts endor quality</sfc:description>
+        </sfc:product>
+
+        
+    <cfc:product xmlns:cfc="www.cfc.com">
+        <cfc:name>break pedal</cfc:name>
+        <cfc:name>420</cfc:name>
+        <cfc:description>HA geniune parts endor quality</cfc:description>
+        </cfc:product>
+
+        
+    <qbc:product xmlns:qbc="www.qbc.com">
+        <qbc:name>break shoe</qbc:name>
+        <qbc:name>280</qbc:name>
+        <qbc:description>HA geniune parts endor quality</qbc:description>
+        </qbc:product>
+</products>
