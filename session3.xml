@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<staff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="session3.xsd">
+    <employee>
+
+    <id>234</id>
+    <name>Hussain</name>
+    <course>ADSE</course>
+
+    </employee>
+
+    <employee>
+        <id>298</id>
+        <name>Hussain Abdullah</name>
+        <course>ADSE</course>
+
+    </employee>
+</staff>
