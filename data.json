@@ -1,0 +1,26 @@
+{
+    "product":[
+        {"id":43,
+         "name": "break pad",
+         "description": "use to apply brakes",
+         "price":5000
+         
+         
+    
+
+},
+
+{
+    "id":93,
+    "name":"side lock",
+    "description":"use for security",
+    "price":3000
+},
+
+{"id":78,
+"name":"wheel rim",
+"description":"use for tyres",
+"price":5000
+}
+    ]
+}
