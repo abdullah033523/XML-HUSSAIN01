@@ -44,7 +44,7 @@
     .then(function(res){return res.json()
     .then(function(result){
       console.log(result.main.temp)
-      document.getElementById("head1").innerHTML=result.main.temp
+      document.getElementById("head1").innerHTML= Math.round(result.main.temp); 
       document.innerHTML=`head1`
     })})
   
