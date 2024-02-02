@@ -1,0 +1,26 @@
+html { 
+    background: url(pink-sky.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+  body {
+    background: none;
+  }
+  .container{
+    width: 450px;
+    /* align-items: center; */
+    margin-top: 100px;
+  }
+  .hrly {
+    width: 200px;
+    margin-right: 7px;
+  }
+  .content   {
+    opacity: 0.6;
+}
+.content span {
+  margin-right: 300px;
+}
